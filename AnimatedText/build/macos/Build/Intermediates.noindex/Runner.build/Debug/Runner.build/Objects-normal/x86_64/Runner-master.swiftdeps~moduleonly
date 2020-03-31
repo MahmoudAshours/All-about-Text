@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "38caccdcb42d231498b1e0621190b2ba"
+build_time: [1585681218, 244355000]
+inputs:
+  "/Users/Ashour/FlutterProjects/allabouttext/macos/Runner/MainFlutterWindow.swift": [1577479420, 944384757]
+  "/Users/Ashour/FlutterProjects/allabouttext/macos/Runner/AppDelegate.swift": [1577479420, 941941585]
+  "/Users/Ashour/FlutterProjects/allabouttext/macos/Flutter/GeneratedPluginRegistrant.swift": [1585681205, 919909399]
