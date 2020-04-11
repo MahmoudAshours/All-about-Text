@@ -1,4 +1,6 @@
-import 'package:allabouttext/text_animator.dart';
+import 'package:allabouttext/catch_theCulprit.dart';
+import 'package:allabouttext/loading_text.dart';
+import 'package:allabouttext/rainy_text.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -6,16 +8,11 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-   @override
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      theme: ThemeData(
-      
-        primarySwatch: Colors.blue,
-      ),
-      home: TextAnimator(),
+      home: CatchTheBurglar(),
     );
   }
 }
- 
